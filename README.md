@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Emmanuel
+
+I'm a frontend web developer.
+- Javascript
+- HTML
+- CSS
+- React
+- Redux
 
 <!--
 **manny-glez/manny-glez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
