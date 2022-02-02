@@ -1,8 +1,6 @@
-# Hi there 👋
+# Hi there 👋 I'm Emmanuel
 
-I'm Emmanuel
-
-I'm a frontend web developer.
+## I'm a frontend web developer.
 - Javascript
 - HTML
 - CSS
