@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Emmanuel
 
-## I'm a frontend web developer.
+## I'm a Full stack Web Developer.
 - Javascript
 - HTML
 - CSS
